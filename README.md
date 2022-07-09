@@ -1,4 +1,4 @@
-# Projeto_Integrador2
+# Projeto Integrador 2
 Projeto Integrador do curso de Data Science da Digital House
 
 ### Enunciado
